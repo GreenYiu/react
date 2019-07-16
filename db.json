@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "username": "王富贵",
+      "password": "123",
+      "sex": "1",
+      "city": "0002",
+      "id": 1
+    },
+    {
+      "username": "3424",
+      "password": "42342",
+      "sex": "0",
+      "city": "0003",
+      "id": 2
+    },
+    {
+      "username": "惹惹",
+      "password": "dsfs",
+      "sex": 0,
+      "city": "0002",
+      "id": 3
+    },
+    {
+      "username": "4234",
+      "password": "4234",
+      "sex": 0,
+      "city": "0002",
+      "id": 4
+    }
+  ],
+  "cityList": [
+    {
+      "id": 1,
+      "name": "上海市",
+      "cityId": "0001"
+    },
+    {
+      "id": 2,
+      "name": "北京市",
+      "cityId": "0002"
+    },
+    {
+      "id": 3,
+      "name": "深圳市",
+      "cityId": "0003"
+    },
+    {
+      "id": 4,
+      "name": "广州市",
+      "cityId": "0004"
+    }
+  ],
+  "todos": [
+    {
+      "name": "放松放松",
+      "id": 1
+    },
+    {
+      "name": "放松放松",
+      "id": 3
+    }
+  ]
+}

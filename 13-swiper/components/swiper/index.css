@@ -1,0 +1,12 @@
+.swiper-container {
+  height: 210px;
+}
+.swiper-button-next {
+  height: 26px;
+}
+.swiper-button-prev {
+  height: 26px;
+}
+.swiper-container img {
+  width: 100%;
+}
